@@ -2,4 +2,5 @@
 
 hello word!
 
-asdasdasd
+this repo have these code:
+-pythin hello world
